@@ -21,7 +21,7 @@ const TrafficLight = () => {
 
     return () => clearTimeout(timer);
   }, [currentColor]);
-
+  //
   return (
     <div style={{ textAlign: "center", marginTop: "50px" }}>
       <div
