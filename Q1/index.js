@@ -10,5 +10,5 @@ function sum(x = 0) {
   return inner;
 }
 
-console.log(sum(1)(2)(3)(4)(5)()); // Outputs 15
-console.log(sum(3)(7)()); // Outputs 10
+console.log(sum(1)(2)(3)(4)(5)()); // Output 15
+console.log(sum(3)(7)()); // Output 10
